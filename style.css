@@ -1,0 +1,44 @@
+body {
+  font-size: 27px;
+  color:      #510037;
+  background: #eceee1;
+  font-family: "Amatic SC";
+
+}
+
+h1 {
+  font-family: "Amatic SC";
+  margin-top: 20px;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Amatic SC";
+  margin-top: 5px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#topbar {
+        margin-top: 5px;
+        display: inline-block;
+    }
+
+#tooltip {
+        clear: none;  
+        float: right;
+        margin-top: 10px;
+        font-family: "Verdana"; 
+        font-size: 16px;
+        text-align: center;
+    }
+div.tooltip {
+        cursor: pointer;
+        display: inline;
+        color: black;
+        padding: 5px 12px 5px 12px;;
+        font-family: "Verdana"; 
+        font-size: 16px;
+        position: center;
+    }
